@@ -3,6 +3,6 @@
 <br>
 This is My First Repositry Project
 <br>
-I Am Tooo Excited To Learn
+I am Start my Study With git And github 
 <br>
-It's very Nice
+FOR THE ROLE OF AZURE DevOps
